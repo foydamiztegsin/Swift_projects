@@ -8,6 +8,5 @@ On the Details page of our furniture shop has full info of that product also add
 
 ### Furniture Shop App Final UI
 
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
+![Preview](images/gif.gif)
+![App UI](images/ui.png)
